@@ -1,63 +1,60 @@
-## Hello there! 👋 I'm Luca
-<br/>
+# Hello there! 👋   I'm *Luca*
 
-<!--
-**calvuzs3/calvuzs3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my HP
 
-Here are some ideas to get you started:
+## + CONTACT
+  Name:  ***Calvetti Luca***\
+  Address:  *Via San Zeno, 33 - 38075 Fiavé TN*\
+  Nationality:  *Italian*\
+  Date of birth:  *February 24, 1978*\
+  Gender:  *Male*\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## + EXPERIENCES
+* SINCE 2010:	Cartiere del Garda S.p.A.\
+    continous cycle worker, level C1, winders conductor\
+* FROM 2000 TO 2010:	Plumber \
+  specialized worker, installer of water, gas, solar and air-conditioning  systems
 
-<table>
-<tr>
-<td valign="top" width="66%">
+## + EDUCATION
+High school leaving qualification 'DIPLOMA DI ISTITUTO TECNICO SETTORE TECNOLOGICO INDIRIZZO "INFORMATICA E TELECOMUNICAZIONI" – ARTICOLAZIONE INFORMATICA'\
+EQF level 4 - ( 90/100 )\
+ITT Marconi Rovereto  
 
-- I'm a full-time continuous cycle worker in the paper production sector, since 2010.  
-  
-- Previously I was Installer of water, heating, solar, gas and air conditioning systems for 10 years   
+## + LANGUAGES
+Mother tongue:	Italian\
+Foreign language:	English
 
-- 🏄‍♂️ windsurf as soon as possible  
+## + IT SKILLS
+Operating systems:	UNIX, Linux, Windows, Android\
+System development:	C, C++,  Java, Bash, Python, Git\
+Web:	HTML5, CC3, PHP, SQL\
+Sample App:	[CalendarCDG](https://github.com/calvuzs3/CalendarCdG)
 
-- ✨ go boardgame  
-  
-</td>
-<td>
-<div align="center">
-<img src="https://github.com/calvuzs3/calvuzs3/blob/main/IMG_20230927_172325.jpg" align="center" style="width: 100%" />
-</div>  
-</td>
-</tr>
-</table>
+## + PROFESSIONAL HIGHLIGHTS
+I integrate easily new  teams.\
+I love to take initiatives for new interesting ways of development and techniques.
 
-<br/>  
+## + OTHER SKILLS AND HOBBIES
+Drive licenses: A, B, C, macchine operatrici movimento terra, forklift, telescopic forklift\
+Sport: Windsurf\
+Boardgame: Go
 
 
-## My Skill Set  
+
+
+## Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-
-### Frontend  
+  ### Frontend  
 <div align="center">  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
 </div>
-
 </td><td valign="top" width="33%">
 
-
-
-### Backend  
+  ### Backend  
 <div align="center">  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
@@ -68,12 +65,9 @@ Here are some ideas to get you started:
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>
-
 </td><td valign="top" width="33%">
 
-
-
-### DevOps  
+  ### DevOps  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
@@ -85,7 +79,6 @@ Here are some ideas to get you started:
 </td></tr>
 </table>  
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -101,25 +94,13 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/luca.calvetti" target="_blank">
   <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
   </a>  
-</div>  
- 
+</div>
 <br/>  
 
-<!--
-  ## Github Stats  
-  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-  <br/>  
-  
-  
-  ## Recent Blog Posts  
-   
-  If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-  <br/>  
-  
-  <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-  <br/>  
--->
-
+## Something More 
+`"First make it run,"`\
+<img src="https://github.com/calvuzs3/calvuzs3/blob/main/IMG_20230927_172325.jpg" align="center" style="width: 30%" />\
+`"..then make it better."`
 ## Support me  
 <div align="center">
             <a href="https://paypal.me/calvuzs3" target="_blank" style="display: inline-block;">
